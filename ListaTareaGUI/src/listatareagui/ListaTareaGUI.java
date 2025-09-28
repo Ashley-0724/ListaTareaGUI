@@ -167,6 +167,7 @@ public class ListaTareaGUI extends JFrame {
                     label.setForeground(Color.BLACK);
                 }
             }
+        
             return c;
         }
     }
